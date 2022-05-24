@@ -20,7 +20,7 @@ public class addcurso extends javax.swing.JFrame {
     public addcurso() {
         initComponents();
         this.setLocationRelativeTo(null);
-        setTitle("PassList by Nova");
+        setTitle("PassList by Genesis");
     }
 
     /**
@@ -35,7 +35,7 @@ public class addcurso extends javax.swing.JFrame {
     
     public static ArrayListsAlmacenados aring = new ArrayListsAlmacenados();
     
-    private static menuadmin MenuAdmin = new menuadmin();
+    private static MenuAdmin MenuAdmin = new MenuAdmin();
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 

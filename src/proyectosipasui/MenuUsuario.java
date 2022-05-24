@@ -17,7 +17,7 @@ public class MenuUsuario extends javax.swing.JFrame {
     public MenuUsuario() {
         initComponents();
         this.setLocationRelativeTo(null);
-        setTitle("PassList by Nova");
+        setTitle("PassList by Genesis");
     }
 
     private static login login = new login();

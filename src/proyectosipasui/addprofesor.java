@@ -20,7 +20,7 @@ public class addprofesor extends javax.swing.JFrame {
     public addprofesor() {
         initComponents();
         this.setLocationRelativeTo(null);
-        setTitle("PassList by Nova");
+        setTitle("PassList by Genesis");
     }
 
     /**
@@ -170,7 +170,7 @@ public class addprofesor extends javax.swing.JFrame {
 
     public static ArrayListsAlmacenados aring = new ArrayListsAlmacenados();
     
-    private static menuadmin MenuAdmin = new menuadmin();
+    private static MenuAdmin MenuAdmin = new MenuAdmin();
     
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         String nombre = nombretxt.getText();

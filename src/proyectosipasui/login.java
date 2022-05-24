@@ -20,7 +20,7 @@ public class login extends javax.swing.JFrame {
     public login() {
         initComponents();
         this.setLocationRelativeTo(null);
-        setTitle("PassList by Nova");
+        setTitle("PassList by Genesis");
         
     }
 
@@ -177,7 +177,7 @@ public class login extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private static MenuUsuario MenuUsuario = new MenuUsuario();
-    private static menuadmin MenuAdmin = new menuadmin();
+    private static MenuAdmin MenuAdmin = new MenuAdmin();
     private static Usuario usuarioxd = new Usuario();
     private static Usuario Admin = new Usuario();
     private static ArrayList<Usuario> Usuarios = new ArrayList();
